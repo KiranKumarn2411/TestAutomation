@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25690" started-at="2018-03-25T18:58:00Z" finished-at="2018-03-25T18:58:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25690" started-at="2018-03-25T18:58:00Z" finished-at="2018-03-25T18:58:25Z">
+      <class name="com.airbnb.test.AirBnbTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.airbnb.test.AirBnbTest@e874448]" name="setup" is-config="true" duration-ms="38190" started-at="2018-03-25T18:57:21Z" finished-at="2018-03-25T18:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchHomeBasedOnPrice()[pri:0, instance:com.airbnb.test.AirBnbTest@e874448]" name="searchHomeBasedOnPrice" duration-ms="25475" started-at="2018-03-25T18:58:00Z" finished-at="2018-03-25T18:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHomeBasedOnPrice -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.airbnb.test.AirBnbTest@e874448]" name="closeBrowser" is-config="true" duration-ms="5337" started-at="2018-03-25T18:58:26Z" finished-at="2018-03-25T18:58:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.airbnb.test.AirBnbTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
